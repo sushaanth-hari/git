@@ -1,2 +1,1 @@
-this is changed from featuregit add .
-git 
+this is feature
